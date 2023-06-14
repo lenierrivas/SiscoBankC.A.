@@ -1,0 +1,39 @@
+en:
+    common:
+        search: Search for users
+        prev: Previus
+        next: Next
+        type2: Type of Person
+        description: Description
+        ident: ID
+        action: Action
+        see: See
+        save: Save
+        cancel: Cancel
+        person: Person
+        edit_users: Edit User
+        delete: Eliminate
+        confirm_delet: You're sure?...
+        details_user: User Details
+        title2: Application Test
+        reason: Company Name or Company Name
+        rif: RIF document
+        two_title: Application Test
+        user: 'User'
+        create_user: 'Create User'
+        new_user: 'New User'
+        edit_user: 'Edit'
+        identification: 'ID or Passport'
+        name: 'Full Name'
+        type: 'Type of User'
+        emit: 'Date of Issue'
+        expired: 'Expiration Date'
+        email: 'Email Address'
+        tlf: 'Phone'
+        tlf_second: 'Phone N°2'
+    notice: 
+        user_regist: Registered User.
+        user_update: Updated User.
+        user_delet: User Deleted.
+
+

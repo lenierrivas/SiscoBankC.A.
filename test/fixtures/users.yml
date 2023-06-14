@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type_person: natural
+  identification: 21119742
+  emit: 1994-06-12
+  expiration: 2023-06-12
+  name: Lenier Rivas
+  email: lenierrivas.rl@gmail.com
+  tlf: 04125732391
+  tlf_second: 04125732391
+
+two:
+  type_person: Juridica
+  identification: V123456789
+  emit: 1994-06-12
+  expiration: 2023-06-12
+  name: Oriana Vargas
+  email: ori98vargas@gmail.com
+  tlf: 041269568542
+  tlf_second: 021258456935

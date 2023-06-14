@@ -1,0 +1,37 @@
+es:
+    common:
+        search: Buscar usuarios
+        prev: Anterior
+        next: Siguente
+        type2: Tipo de Persona
+        description: Descripción
+        ident: Identificación
+        action: Acción
+        see: Ver
+        save: Guardar
+        cancel: Cancelar
+        person: Persona
+        edit_users: Editar Usuario
+        delete: Eliminar
+        confirm_delet: Estas seguro?
+        details_user: Detalles del Usuario
+        title2: Prueba de postulación
+        reason: Nombre de Empresa o Razon Social
+        rif: Documento RIF
+        two_title: Prueba de Postulación
+        user: 'Usuario'
+        create_user: 'Crear Usuario'
+        new_user: 'Nuevo Usuario'
+        edit_user: 'Editar'
+        identification: 'Cédula o Pasaporte'
+        name: 'Nombre Completo'
+        type: 'Tipo de Usuario'
+        emit: 'Fecha de Emisión'
+        expired: 'Fecha de Expiración'
+        email: 'Correo Electrónico'
+        tlf: 'Teléfono'
+        tlf_second: 'Teléfono N°2'
+    notice: 
+        user_regist: Usuario registrado.
+        user_update: Usuario Actualizado.
+        user_delet: Usuario Eliminado.
